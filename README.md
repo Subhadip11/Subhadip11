@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Subhadip11 
-- 💼 I am a Computer Science Engineering Student. 
+- 💼 I am a Computer Science Engineer. 
 - 👀 I’m interested in Android Development, BlockChain development, Cloud Technology.
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
